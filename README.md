@@ -1,7 +1,7 @@
 # Welcome to My Project! 👋
 
 ## 🚀 About This Project
-This project is designed to [insert a brief description of your project here]. Whether you're here to contribute, learn, or explore, we're thrilled to have you!
+This project is designed to predict game winner. Whether you're here to contribute, learn, or explore, we're thrilled to have you!
 
 ## 📖 Features
 - Feature 1: [Short description]
